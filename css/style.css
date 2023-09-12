@@ -1,0 +1,17 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+.info-container{
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 50px;
+  text-align: center;
+}
+
+body{
+  background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg);
+}
+

@@ -1,0 +1,17 @@
+{
+"comentarios":[
+    {
+        "user":"fulano",
+        "content": "Linda imagen, interesantes colores"
+    },
+    {
+        "user":"mengano",
+        "content": "No me gustó. Poca calidad "
+
+    },
+    {
+        "user":"sultano",
+        "content": "no se ve .mp3"
+    }
+]
+}
